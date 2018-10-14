@@ -3,4 +3,4 @@ title: "About This Website"
 ---
 
 More about this website.
-test, test
+I  am claire. I hope my website impresses you because its on github.
